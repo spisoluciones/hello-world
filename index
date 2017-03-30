@@ -1,3 +1,9 @@
-This is my File Name. Example
 <html>
+<head>
+<title>This is my File Name. Example</title>
+</head>
+<body>
+<h2>This is my example</h2>
+Hello World!
+</body>
 </html>
